@@ -15,3 +15,5 @@ corner and press Enter;
 5. Click on the instructions screen in  the lower-left corner so it turns
 yellow;
 6. Follow the instructions in the instructions screen to start the game.
+
+![screenshot](screen1.png?raw=true)

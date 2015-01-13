@@ -1,8 +1,8 @@
 2048 in C to ASM
 ================
 
-This is a 2048 game implemented in C that is compiled to ASM with LCC compiler
-and ran in <a target="_blank" href="https://www.cis.upenn.edu/~milom/cse240-Fall06/pennsim/pennsim-manual.html">
+This is a 2048 game implemented in C that is compiled to ASM with the LCC
+compiler and ran in <a target="_blank" href="https://www.cis.upenn.edu/~milom/cse240-Fall06/pennsim/pennsim-manual.html">
 PennSim</a>.
 
 To run:
